@@ -1,1 +1,1 @@
-"# eks_wordpress" 
+# EKSでwordpressを構築するための前提リソース
